@@ -1,0 +1,548 @@
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    
+}
+
+
+/*სივრცე 1*/
+
+.container1{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.cont11{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont12{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont13{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont14{
+    padding-left: 600px;
+    font-size: 18px;
+}
+.cont15{
+    font-size: 20px;
+    color: red;
+}
+
+
+/*სივრცე 2*/
+
+.container2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    position: sticky;
+    top: 0;
+    
+}
+.cont21{
+    font-weight: bold;
+    font-size: 28px;
+    padding-left: 50px
+}
+.cont22{
+    padding-left: 150px;
+    font-size: 18px;
+}
+.cont23{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont24{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont25{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont26{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont27{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.cont28{
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+.cont22:hover{
+    color: purple;
+}
+.cont23:hover{
+    color: purple;
+}
+.cont24:hover{
+    color: purple;
+}
+.cont25:hover{
+    color: purple;
+}
+.cont26:hover{
+    color: purple;
+}
+.cont27:hover{
+    color: purple;
+}
+.cont28:hover{
+    color: purple;
+}
+#ikonk1{
+    margin-left: 180px;
+}
+#ikonk2{
+    margin-left: 20px;
+}
+#ikonk3{
+    margin-left: 20px;
+}
+#ikonk4{
+    margin-left: 20px;
+}
+
+
+/*სივრცე 3*/
+
+.container3{
+    width: 100%;
+    height: 650px;
+    background-color: #dafefa;
+    display: flex;
+
+}
+.cont_31{
+    width:600px;
+    height: 400px;
+    padding-left: 100px;
+    padding-top: 250px;
+}
+.cont31{
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+}
+.cont32{
+    width: 500px;
+    height: 200px;
+    font-size: 68px; 
+}
+.cont33{
+    width: 150px;
+    height: 50px;
+    font-size: 14px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box; 
+}
+.cont33:hover{
+    background-color: purple;
+    color: #ffffff;
+}
+.img1{
+    width: 400px;
+    height: 600px;
+}
+.img11{
+    width: auto;
+    height: 600px;
+    padding-top: 50px;   
+}
+
+
+/*სივრცე 4*/
+
+.container4{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.cont41{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont42{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    width: 78%;
+}
+.img3{
+    width: 80%;  
+}
+
+
+/*სივრცე 5*/
+
+.container5{
+    width: 100%;
+    height: 200px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.cont51{
+    padding-left: 435px;
+    font-size: 20px;
+}
+.cont52{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.cont53{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.cont51:hover{
+    font-weight: bold;
+}
+.cont52:hover{
+    font-weight: bold;
+}
+.cont53:hover{
+    font-weight: bold;
+}
+
+
+/*სივრცე 6*/
+
+.container6{
+    width: 96%;
+    height: 1200px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+.cont61{
+    width: 30%;
+    height: 500px;
+    margin: 20px;
+}
+.img4{
+    width: 300px;
+    height: auto;
+}
+.text61:hover{
+    color: purple;
+}
+#text62{
+    padding-left: 150px;
+}
+
+
+/*სივრცე 8*/
+
+.container8{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+.cont81{
+    padding-left: 550px;
+    font-size: 14px;
+}
+.cont81:hover{
+    color: purple;
+}
+
+
+
+/*სივრცე 7*/
+.container7{
+    width: 100%;
+    height: 590px;
+    background-image: url(images/img10.jpg);
+    background-repeat: no-repeat;
+}
+.cont7_1{
+    width: 450px;
+    height: 400px;
+    padding-left: 800px;
+    padding-top: 200px;
+}
+.cont7_2{
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    padding-top: 30px;
+    color: gray;
+}
+span{
+    display: inline-block;
+    text-align: center;
+}
+.cont71{
+    font-size: 48px;
+}
+.cont72{
+    font-size: 24px; 
+}
+.cont73{
+    font-size: 24px;
+    padding-left: 20px;
+}
+.cont74{
+    font-size: 24px;
+    padding-left: 20px;
+}
+.cont75{
+    font-size: 24px;
+    padding-left: 20px;
+}
+.cont76{
+    width: 180px;
+    height: 45px;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box; 
+    background-color: black;
+    color: #ffffff;
+}
+.cont76:hover{
+    background-color: purple;
+    color: #ffffff;
+}
+
+
+
+/*სივრცე 9*/
+
+.container9{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+.cont91{
+    width: 33%;
+    padding-top: 65px;
+}
+.cont92{
+    width: 33%;
+    padding-top: 65px;
+}
+.cont93{
+    width: 33%;
+    padding-top: 65px;
+}
+#text91, #text911, #text9111{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+#text91:hover{
+    animation: shake 0.3s;
+}
+#text911:hover{
+    animation: shake 0.3s;
+}
+#text9111:hover{
+    animation: shake 0.3s;
+}
+.text92{
+    font-size: 26px;
+    text-align: center;
+}
+.text93{
+    text-align: center;
+}
+#cont91:hover{
+    animation: shake 1s ;
+}
+
+
+
+/*სივრცე 10*/
+
+.container10{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;    
+}
+h2{
+    padding-left: 550px;
+}
+
+
+
+/*სივრცე 11*/
+.container11{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.cont111{
+    width: 30%;
+    height: 400px;
+    margin-left: 20px;
+    background-image: url(images/img11.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 300px ;
+}
+.cont112{
+    width: 30%;
+    height: 400px;
+    margin-left: 40px;
+    background-image: url(images/img12.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 300px ;
+}
+.cont113{
+    width: 30%;
+    height: 400px;
+    margin-left: 40px;
+    background-image: url(images/img13.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 300px ;
+}
+.text111{
+    width: 80px;
+    height: 25px;
+    background-color: purple;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 10px;
+}
+.text112{
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left: 70px;
+    margin-top: 180px;
+}
+
+
+/*სივრცე 12*/
+.container12{
+    width: 100%;
+    height: 350px;
+    background-color: #f6f6f7;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.cont121{
+    width: 17%;
+    height: 300px;
+}
+.cont122{
+    width: 17%;
+    height: 300px;
+}
+.cont123{
+    width: 17%;
+    height: 300px;
+}
+.cont124{
+    width: 17%;
+    height: 300px;
+}
+.cont125{
+    width: 30%;
+    height: 300px;
+}
+.text121{
+    font-size: 34px;
+    padding-left: 60px;
+    padding-top: 50px;
+    font-weight: bold;
+}
+.text122{
+    font-size: 14px;
+    padding-left: 60px; 
+}
+.text123{
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.text124{
+    padding-left: 60px;
+    font-size: 14px;
+}
+.text125{
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.text126{
+    padding-left: 60px;
+    font-size: 14px;
+}
+.text127{
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.text128{
+    padding-left: 60px;
+    font-size: 14px;
+}
+.text129{
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.text1210{
+    padding-left: 60px;
+    font-size: 14px;
+}
+.input{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+input[type="email"]{
+    border: none;
+}
+.text1211{
+    padding-left: 60px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
